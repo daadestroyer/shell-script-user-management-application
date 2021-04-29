@@ -104,7 +104,9 @@ search_user(){
                 echo "---------------------------------"  
             fi
 }
-
+change_password(){
+    
+}
 
 echo "****************************************"
 echo "WELCOME TO USER MANAGEMENT APPLICATION"
